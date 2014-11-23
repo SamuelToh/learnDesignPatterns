@@ -41,8 +41,8 @@ Problem Specification
  10. The number of different routes from C to C with a distance of less than 30. In the sample data, the trips are: CDC, CEBC, CEBCDC, CDCEBC, CDEBC, CEBCEBC, CEBCEBCEBC.
 
 
-TODO
+Note
 ======================
-As the primary focus of this project is to learn writing java codes with good practise and designs where appropriate. 
-Hence the current test coverage is very minimal and you may also realized that they are not very well written, because testing is not the primary learning goal of this exercise.
+As the primary focus of this project is to learn to code with good practises and to also try putting what I have learned from my design books into use. 
+Hence, the test coverage of my little project is very minimal. You may also realized that these tests are not very well written as again, testing is not the primary learning goal of this exercise.
 
